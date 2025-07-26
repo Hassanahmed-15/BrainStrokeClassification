@@ -29,7 +29,7 @@ This project focuses on classifying **brain CT scans** as either **normal** or *
    ```
 2. Open the notebook:
    ```bash
-   jupyter notebook brain_ct_classification.ipynb
+   jupyter notebook efficientnetb2.ipynb
    ```
 3. Run all cells to:
    - Preprocess the data.
