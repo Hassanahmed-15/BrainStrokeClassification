@@ -23,15 +23,11 @@ This project focuses on classifying **brain CT scans** as either **normal** or *
 ---
 
 ## 📂 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/brain-ct-classifier.git
-   ```
-2. Open the notebook:
+1. Open the notebook:
    ```bash
    jupyter notebook efficientnetb2.ipynb
    ```
-3. Run all cells to:
+2. Run all cells to:
    - Preprocess the data.
    - Train and evaluate the model.
    - View performance metrics and plots.
